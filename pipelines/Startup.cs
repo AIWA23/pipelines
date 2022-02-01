@@ -14,7 +14,7 @@ namespace pipelines
     public class Startup
     {
         public Startup(IConfiguration configuration)
-        {   // Sample Change second time
+        {   // Undoing changes
             Configuration = configuration;
         }
 
