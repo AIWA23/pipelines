@@ -14,7 +14,7 @@ namespace pipelines
     public class Startup
     {
         public Startup(IConfiguration configuration)
-        {   // Undoing changes
+        {   // Redoing Changes
             Configuration = configuration;
         }
 
